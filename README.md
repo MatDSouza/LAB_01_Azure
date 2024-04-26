@@ -9,4 +9,8 @@ Nesse primeiro desafio nosso propósito era criar criar um aprendizado de maquin
 ![image](https://github.com/MatDSouza/LAB_01_Azure/assets/109558887/2dee16f7-03ad-49ad-9aa8-760effd83e76)
 Verificamos e criamos as tarefas para nosso modelo:
 ![image](https://github.com/MatDSouza/LAB_01_Azure/assets/109558887/b747b6ac-3c97-4de9-b148-726d2e2f354d)
-Por último testamos as inferências através dos pontos de extremidades
+Por último testamos as inferências através dos pontos de extremidades:
+
+![image](https://github.com/MatDSouza/LAB_01_Azure/assets/109558887/2c37547d-60b8-4f13-a34c-cd5456aa74e2)
+RESULTADO:
+![image](https://github.com/MatDSouza/LAB_01_Azure/assets/109558887/b77e3d6a-e827-4b42-be85-fa94f0d85e22)

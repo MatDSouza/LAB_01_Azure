@@ -1,5 +1,6 @@
 # LAB_01_Azure
-#Criando meu primeiro modelo com Azure Machine Learning
+
+# Criando meu primeiro modelo com Azure Machine Learning
 
 Para trabalharmos utilizando Machine Learning primeiro de tudo precisamos de um workspace para alocar todo nosso trabalho.
 Depois do workspace pronto nós entramos no ML studio para criar um "ML automatizado", seguindo o passo a passo da documentação da Microsoft Machine Learning para melhor entendimento e para que tudo dê certo:
@@ -12,5 +13,7 @@ Verificamos e criamos as tarefas para nosso modelo:
 Por último testamos as inferências através dos pontos de extremidades:
 
 ![image](https://github.com/MatDSouza/LAB_01_Azure/assets/109558887/2c37547d-60b8-4f13-a34c-cd5456aa74e2)
+
+
 RESULTADO:
 ![image](https://github.com/MatDSouza/LAB_01_Azure/assets/109558887/b77e3d6a-e827-4b42-be85-fa94f0d85e22)
